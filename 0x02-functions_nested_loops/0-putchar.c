@@ -7,7 +7,11 @@
 
 int main()
 {
-  puts("_putchar");
+  char putchar[] = "_putchar";
+  
+
+  for (putchar=1; putchar<9; putchar++) 
+  putchar("putchar");
 
   return (0);
 }
