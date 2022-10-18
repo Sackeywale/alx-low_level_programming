@@ -11,7 +11,7 @@ int main()
   
 
   for (putchar=1; putchar<9; putchar++) 
-  putchar("putchar");
+  _putchar("putchar");
 
   return (0);
 }
