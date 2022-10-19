@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *void print_alphabet_x10(void)
- */
+*print_alphabet_x10 - ten lines of alphabets
+*/
 
 void print_alphabet_x10(void)
 {
