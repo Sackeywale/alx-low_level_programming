@@ -2,9 +2,7 @@
 
 /**
  *main - print alphabets
- *
- *return - 0 if success
- */
+ **/
 
 void print_alphabet(void)
 {
