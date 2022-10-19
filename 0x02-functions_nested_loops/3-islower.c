@@ -9,8 +9,10 @@ int _islower(int c)
 {
 int c;
 
-for (c = 'a'; c <= 'z'; c++)
+if (c = 'a' && c <= 'z')
 {
-return (c);
+return (0);
 }
+else
+return (1)   
 }
