@@ -8,10 +8,11 @@
 int main()
 {
   char putchar[] = "_putchar";
+  int a;
   
 
-  for (putchar=1; putchar<9; putchar++) 
-  _putchar(putchar);
+  for (a = 1; a < 9; a++) 
+  _putchar(putchar[a]);
 
   return (0);
 }
