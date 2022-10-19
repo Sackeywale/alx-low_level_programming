@@ -11,9 +11,12 @@ int main()
   int a;
   
 
-  for (a = 1; a < 10; a++) 
-  _putchar(putchar[a]);
-
+  for (a = 1; a < 10; a++)
+  {
+      _putchar(putchar[a]);
+  }
+  _putchar('\n');
+  
   return (0);
 }
 
