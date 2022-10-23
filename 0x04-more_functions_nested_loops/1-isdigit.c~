@@ -1,0 +1,5 @@
+#include "main.h"
+
+/**
+ *@c - input variable 
+ *main - function that checks for a digit 
