@@ -14,3 +14,4 @@ int _isdigit(int x)
 	}
 
 	return (0);
+}
